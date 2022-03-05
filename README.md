@@ -4,7 +4,7 @@
 
 ```javascript
 const renata = {
-  skills: ['Javascript', 'React', 'Redux', 'HTML', 'CSS', 'SASS', 'Bootstrap', 'Express', 'NodeJS', 'PostgreSQL']
+  skills: ['Javascript', 'React', 'Redux', 'HTML', 'CSS', 'SASS', 'Bootstrap', 'Figma', 'Express', 'NodeJS', 'PostgreSQL']
 };
 ```
 <div align="center">
