@@ -1,6 +1,6 @@
 ![readme-top](https://user-images.githubusercontent.com/79423391/145894635-1107480d-2363-406c-9d51-1b96683265b3.png)
 
-<h2 align="center"> Full stack web developer</h2>
+<h2 align="center"> Full Stack Developer</h2>
 
 ```javascript
 const renata = {
